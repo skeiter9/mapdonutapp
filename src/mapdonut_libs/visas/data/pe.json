@@ -1,0 +1,802 @@
+{
+    "countryCodeUser": "PE",
+    "timestamp": 1571346530798,
+    "visas": {
+        "AF": {
+            "status": "visa required",
+            "cca2": "AF"
+        },
+        "AL": {
+            "status": "visa-free / 90 days",
+            "cca2": "AL"
+        },
+        "DZ": {
+            "status": "visa required",
+            "cca2": "DZ"
+        },
+        "AD": {
+            "status": "visa-free / 90 days",
+            "cca2": "AD"
+        },
+        "AO": {
+            "status": "pre-visa on arrival",
+            "cca2": "AO"
+        },
+        "AG": {
+            "status": "visa-free / 180 days",
+            "cca2": "AG"
+        },
+        "AR": {
+            "status": "visa-free / 90 days",
+            "cca2": "AR"
+        },
+        "AM": {
+            "status": "visa on arrival / eVisa / 120 days",
+            "cca2": "AM"
+        },
+        "AU": {
+            "status": "eVisa",
+            "cca2": "AU"
+        },
+        "AT": {
+            "status": "visa-free / 90 days",
+            "cca2": "AT"
+        },
+        "AZ": {
+            "status": "eVisa",
+            "cca2": "AZ"
+        },
+        "BS": {
+            "status": "visa-free / 90 days",
+            "cca2": "BS"
+        },
+        "BH": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "BH"
+        },
+        "BD": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "BD"
+        },
+        "BB": {
+            "status": "visa-free / 28 days",
+            "cca2": "BB"
+        },
+        "BY": {
+            "status": "visa-free / 30 days",
+            "cca2": "BY"
+        },
+        "BE": {
+            "status": "visa-free / 90 days",
+            "cca2": "BE"
+        },
+        "BZ": {
+            "status": "visa-free / 30 days",
+            "cca2": "BZ"
+        },
+        "BJ": {
+            "status": "eVisa",
+            "cca2": "BJ"
+        },
+        "BT": {
+            "status": "visa required",
+            "cca2": "BT"
+        },
+        "BO": {
+            "status": "visa-free / 90 days",
+            "cca2": "BO"
+        },
+        "BA": {
+            "status": "visa-free / 90 days",
+            "cca2": "BA"
+        },
+        "BW": {
+            "status": "visa-free / 90 days",
+            "cca2": "BW"
+        },
+        "BR": {
+            "status": "visa-free / 90 days",
+            "cca2": "BR"
+        },
+        "BN": {
+            "status": "visa-free / 14 days",
+            "cca2": "BN"
+        },
+        "BG": {
+            "status": "visa-free / 90 days",
+            "cca2": "BG"
+        },
+        "BF": {
+            "status": "visa required",
+            "cca2": "BF"
+        },
+        "BI": {
+            "status": "visa required",
+            "cca2": "BI"
+        },
+        "KH": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "KH"
+        },
+        "CM": {
+            "status": "visa required",
+            "cca2": "CM"
+        },
+        "CA": {
+            "status": "visa required",
+            "cca2": "CA"
+        },
+        "CV": {
+            "status": "visa on arrival",
+            "cca2": "CV"
+        },
+        "CF": {
+            "status": "visa required",
+            "cca2": "CF"
+        },
+        "TD": {
+            "status": "visa required",
+            "cca2": "TD"
+        },
+        "CL": {
+            "status": "visa-free / 90 days",
+            "cca2": "CL"
+        },
+        "CN": {
+            "status": "visa required",
+            "cca2": "CN"
+        },
+        "CO": {
+            "status": "visa-free / 90 days",
+            "cca2": "CO"
+        },
+        "KM": {
+            "status": "visa on arrival / 45 days",
+            "cca2": "KM"
+        },
+        "CG": {
+            "status": "visa required",
+            "cca2": "CG"
+        },
+        "CD": {
+            "status": "visa required",
+            "cca2": "CD"
+        },
+        "CR": {
+            "status": "visa-free / 90 days",
+            "cca2": "CR"
+        },
+        "CI": {
+            "status": "pre-enrollment",
+            "cca2": "CI"
+        },
+        "HR": {
+            "status": "visa-free / 90 days",
+            "cca2": "HR"
+        },
+        "CU": {
+            "status": "tourist card / 30 days",
+            "cca2": "CU"
+        },
+        "CY": {
+            "status": "visa-free / 90 days",
+            "cca2": "CY"
+        },
+        "CZ": {
+            "status": "visa-free / 90 days",
+            "cca2": "CZ"
+        },
+        "DK": {
+            "status": "visa-free / 90 days",
+            "cca2": "DK"
+        },
+        "DJ": {
+            "status": "eVisa",
+            "cca2": "DJ"
+        },
+        "DM": {
+            "status": "visa-free / 21 days",
+            "cca2": "DM"
+        },
+        "DO": {
+            "status": "visa-free",
+            "cca2": "DO"
+        },
+        "EC": {
+            "status": "visa-free / 180 days",
+            "cca2": "EC"
+        },
+        "EG": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "EG"
+        },
+        "SV": {
+            "status": "visa required",
+            "cca2": "SV"
+        },
+        "GQ": {
+            "status": "visa required",
+            "cca2": "GQ"
+        },
+        "ER": {
+            "status": "visa required",
+            "cca2": "ER"
+        },
+        "EE": {
+            "status": "visa-free / 90 days",
+            "cca2": "EE"
+        },
+        "SZ": {
+            "status": "visa required",
+            "cca2": "SZ"
+        },
+        "ET": {
+            "status": "eVisa",
+            "cca2": "ET"
+        },
+        "FJ": {
+            "status": "visa-free / 120 days",
+            "cca2": "FJ"
+        },
+        "FI": {
+            "status": "visa-free / 90 days",
+            "cca2": "FI"
+        },
+        "FR": {
+            "status": "visa-free / 90 days",
+            "cca2": "FR"
+        },
+        "GA": {
+            "status": "eVisa",
+            "cca2": "GA"
+        },
+        "GM": {
+            "status": "visa required",
+            "cca2": "GM"
+        },
+        "GE": {
+            "status": "eVisa",
+            "cca2": "GE"
+        },
+        "DE": {
+            "status": "visa-free / 90 days",
+            "cca2": "DE"
+        },
+        "GH": {
+            "status": "visa required",
+            "cca2": "GH"
+        },
+        "GR": {
+            "status": "visa-free / 90 days",
+            "cca2": "GR"
+        },
+        "GD": {
+            "status": "visa required",
+            "cca2": "GD"
+        },
+        "GT": {
+            "status": "visa-free / 90 days",
+            "cca2": "GT"
+        },
+        "GN": {
+            "status": "visa required",
+            "cca2": "GN"
+        },
+        "GW": {
+            "status": "visa on arrival / eVisa / 90 days",
+            "cca2": "GW"
+        },
+        "GY": {
+            "status": "visa-free / 90 days",
+            "cca2": "GY"
+        },
+        "HT": {
+            "status": "visa-free / 90 days",
+            "cca2": "HT"
+        },
+        "HN": {
+            "status": "visa-free / 30 days",
+            "cca2": "HN"
+        },
+        "HK": {
+            "status": "visa-free / 30 days",
+            "cca2": "HK"
+        },
+        "HU": {
+            "status": "visa-free / 90 days",
+            "cca2": "HU"
+        },
+        "IS": {
+            "status": "visa-free / 90 days",
+            "cca2": "IS"
+        },
+        "IN": {
+            "status": "eVisa",
+            "cca2": "IN"
+        },
+        "ID": {
+            "status": "visa-free / 30 days",
+            "cca2": "ID"
+        },
+        "IR": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "IR"
+        },
+        "IQ": {
+            "status": "visa required",
+            "cca2": "IQ"
+        },
+        "IE": {
+            "status": "visa required",
+            "cca2": "IE"
+        },
+        "IL": {
+            "status": "visa-free / 90 days",
+            "cca2": "IL"
+        },
+        "IT": {
+            "status": "visa-free / 90 days",
+            "cca2": "IT"
+        },
+        "JM": {
+            "status": "visa-free / 30 days",
+            "cca2": "JM"
+        },
+        "JP": {
+            "status": "visa required",
+            "cca2": "JP"
+        },
+        "JO": {
+            "status": "visa on arrival",
+            "cca2": "JO"
+        },
+        "KZ": {
+            "status": "eVisa",
+            "cca2": "KZ"
+        },
+        "KE": {
+            "status": "eVisa / 90 days",
+            "cca2": "KE"
+        },
+        "KI": {
+            "status": "visa required",
+            "cca2": "KI"
+        },
+        "RK": {
+            "status": "visa required",
+            "cca2": "RK"
+        },
+        "KW": {
+            "status": "visa required",
+            "cca2": "KW"
+        },
+        "KG": {
+            "status": "eVisa",
+            "cca2": "KG"
+        },
+        "LA": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "LA"
+        },
+        "LV": {
+            "status": "visa-free / 90 days",
+            "cca2": "LV"
+        },
+        "LB": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "LB"
+        },
+        "LS": {
+            "status": "eVisa / 14 days",
+            "cca2": "LS"
+        },
+        "LR": {
+            "status": "visa required",
+            "cca2": "LR"
+        },
+        "LY": {
+            "status": "visa required",
+            "cca2": "LY"
+        },
+        "LI": {
+            "status": "visa-free / 90 days",
+            "cca2": "LI"
+        },
+        "LT": {
+            "status": "visa-free / 90 days",
+            "cca2": "LT"
+        },
+        "LU": {
+            "status": "visa-free / 90 days",
+            "cca2": "LU"
+        },
+        "MO": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "MO"
+        },
+        "MG": {
+            "status": "visa on arrival / eVisa / 90 days",
+            "cca2": "MG"
+        },
+        "MW": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "MW"
+        },
+        "MY": {
+            "status": "visa-free / 90 days",
+            "cca2": "MY"
+        },
+        "MV": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "MV"
+        },
+        "ML": {
+            "status": "visa required",
+            "cca2": "ML"
+        },
+        "MT": {
+            "status": "visa-free / 90 days",
+            "cca2": "MT"
+        },
+        "MH": {
+            "status": "visa on arrival / 90 days",
+            "cca2": "MH"
+        },
+        "MR": {
+            "status": "visa on arrival",
+            "cca2": "MR"
+        },
+        "MU": {
+            "status": "visa on arrival / 60 days",
+            "cca2": "MU"
+        },
+        "MX": {
+            "status": "visa-free / 180 days",
+            "cca2": "MX"
+        },
+        "FM": {
+            "status": "visa-free / 30 days",
+            "cca2": "FM"
+        },
+        "MD": {
+            "status": "visa-free / 90 days",
+            "cca2": "MD"
+        },
+        "MC": {
+            "status": "visa-free / 90 days",
+            "cca2": "MC"
+        },
+        "MN": {
+            "status": "visa required",
+            "cca2": "MN"
+        },
+        "ME": {
+            "status": "visa-free / 30 days",
+            "cca2": "ME"
+        },
+        "MA": {
+            "status": "visa-free / 90 days",
+            "cca2": "MA"
+        },
+        "MZ": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "MZ"
+        },
+        "MM": {
+            "status": "eVisa / 28 days",
+            "cca2": "MM"
+        },
+        "NA": {
+            "status": "visa required",
+            "cca2": "NA"
+        },
+        "NR": {
+            "status": "visa required",
+            "cca2": "NR"
+        },
+        "NP": {
+            "status": "visa on arrival / 90 days",
+            "cca2": "NP"
+        },
+        "NL": {
+            "status": "visa-free / 90 days",
+            "cca2": "NL"
+        },
+        "NZ": {
+            "status": "visa required",
+            "cca2": "NZ"
+        },
+        "NI": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "NI"
+        },
+        "NE": {
+            "status": "visa required",
+            "cca2": "NE"
+        },
+        "NG": {
+            "status": "pre-visa on arrival",
+            "cca2": "NG"
+        },
+        "KP": {
+            "status": "visa required",
+            "cca2": "KP"
+        },
+        "MK": {
+            "status": "visa-free / 90 days",
+            "cca2": "MK"
+        },
+        "NO": {
+            "status": "visa-free / 90 days",
+            "cca2": "NO"
+        },
+        "OM": {
+            "status": "visa required",
+            "cca2": "OM"
+        },
+        "PK": {
+            "status": "eVisa",
+            "cca2": "PK"
+        },
+        "PW": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "PW"
+        },
+        "PS": {
+            "status": "visa-free",
+            "cca2": "PS"
+        },
+        "PA": {
+            "status": "visa-free / 180 days",
+            "cca2": "PA"
+        },
+        "PG": {
+            "status": "visa on arrival / eVisa / 60 days",
+            "cca2": "PG"
+        },
+        "PY": {
+            "status": "visa-free / 90 days",
+            "cca2": "PY"
+        },
+        "PE": {
+            "status": "",
+            "cca2": "PE"
+        },
+        "PH": {
+            "status": "visa-free / 30 days",
+            "cca2": "PH"
+        },
+        "PL": {
+            "status": "visa-free / 90 days",
+            "cca2": "PL"
+        },
+        "PT": {
+            "status": "visa-free / 90 days",
+            "cca2": "PT"
+        },
+        "QA": {
+            "status": "visa-free / 30 days",
+            "cca2": "QA"
+        },
+        "RO": {
+            "status": "visa-free / 90 days",
+            "cca2": "RO"
+        },
+        "RU": {
+            "status": "visa-free / 90 days",
+            "cca2": "RU"
+        },
+        "RW": {
+            "status": "visa on arrival / eVisa / 30 days",
+            "cca2": "RW"
+        },
+        "KN": {
+            "status": "visa-free / 90 days",
+            "cca2": "KN"
+        },
+        "LC": {
+            "status": "visa on arrival / 42 days",
+            "cca2": "LC"
+        },
+        "WS": {
+            "status": "visa on arrival / 60 days",
+            "cca2": "WS"
+        },
+        "SM": {
+            "status": "visa-free / 90 days",
+            "cca2": "SM"
+        },
+        "ST": {
+            "status": "eVisa",
+            "cca2": "ST"
+        },
+        "SA": {
+            "status": "visa required",
+            "cca2": "SA"
+        },
+        "SN": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "SN"
+        },
+        "RS": {
+            "status": "visa-free / 90 days",
+            "cca2": "RS"
+        },
+        "SC": {
+            "status": "tourist registration / 90 days",
+            "cca2": "SC"
+        },
+        "SL": {
+            "status": "visa required",
+            "cca2": "SL"
+        },
+        "SG": {
+            "status": "visa-free / 30 days",
+            "cca2": "SG"
+        },
+        "SK": {
+            "status": "visa-free / 90 days",
+            "cca2": "SK"
+        },
+        "SI": {
+            "status": "visa-free / 90 days",
+            "cca2": "SI"
+        },
+        "SB": {
+            "status": "visa required",
+            "cca2": "SB"
+        },
+        "SO": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "SO"
+        },
+        "ZA": {
+            "status": "visa-free / 30 days",
+            "cca2": "ZA"
+        },
+        "KR": {
+            "status": "visa-free / 90 days",
+            "cca2": "KR"
+        },
+        "SS": {
+            "status": "visa required",
+            "cca2": "SS"
+        },
+        "ES": {
+            "status": "visa-free / 90 days",
+            "cca2": "ES"
+        },
+        "LK": {
+            "status": "eTA / 30 days",
+            "cca2": "LK"
+        },
+        "VC": {
+            "status": "visa-free / 30 days",
+            "cca2": "VC"
+        },
+        "SD": {
+            "status": "visa required",
+            "cca2": "SD"
+        },
+        "SR": {
+            "status": "tourist card / 90 days",
+            "cca2": "SR"
+        },
+        "SE": {
+            "status": "visa-free / 90 days",
+            "cca2": "SE"
+        },
+        "CH": {
+            "status": "visa-free / 90 days",
+            "cca2": "CH"
+        },
+        "SY": {
+            "status": "visa required",
+            "cca2": "SY"
+        },
+        "TW": {
+            "status": "eVisa / 90 days",
+            "cca2": "TW"
+        },
+        "TJ": {
+            "status": "eVisa",
+            "cca2": "TJ"
+        },
+        "TZ": {
+            "status": "visa on arrival / eVisa",
+            "cca2": "TZ"
+        },
+        "TH": {
+            "status": "visa-free / 90 days",
+            "cca2": "TH"
+        },
+        "TL": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "TL"
+        },
+        "TG": {
+            "status": "visa on arrival / 7 days",
+            "cca2": "TG"
+        },
+        "TO": {
+            "status": "visa required",
+            "cca2": "TO"
+        },
+        "TT": {
+            "status": "visa-free / 90 days",
+            "cca2": "TT"
+        },
+        "TN": {
+            "status": "visa required",
+            "cca2": "TN"
+        },
+        "TR": {
+            "status": "visa-free / 90 days",
+            "cca2": "TR"
+        },
+        "TM": {
+            "status": "visa required",
+            "cca2": "TM"
+        },
+        "TV": {
+            "status": "visa on arrival / 30 days",
+            "cca2": "TV"
+        },
+        "UG": {
+            "status": "visa on arrival / eVisa",
+            "cca2": "UG"
+        },
+        "UA": {
+            "status": "eVisa",
+            "cca2": "UA"
+        },
+        "AE": {
+            "status": "eVisa",
+            "cca2": "AE"
+        },
+        "UK": {
+            "status": "visa required",
+            "cca2": "UK"
+        },
+        "US": {
+            "status": "visa required",
+            "cca2": "US"
+        },
+        "UY": {
+            "status": "visa-free / 90 days",
+            "cca2": "UY"
+        },
+        "UZ": {
+            "status": "eVisa / 30 days",
+            "cca2": "UZ"
+        },
+        "VU": {
+            "status": "visa-free / 30 days",
+            "cca2": "VU"
+        },
+        "VA": {
+            "status": "visa-free / 90 days",
+            "cca2": "VA"
+        },
+        "VE": {
+            "status": "visa required",
+            "cca2": "VE"
+        },
+        "VN": {
+            "status": "eVisa / 30 days",
+            "cca2": "VN"
+        },
+        "YE": {
+            "status": "visa required",
+            "cca2": "YE"
+        },
+        "ZM": {
+            "status": "visa on arrival / eVisa / 90 days",
+            "cca2": "ZM"
+        },
+        "ZW": {
+            "status": "visa on arrival / 90 days",
+            "cca2": "ZW"
+        }
+    }
+}

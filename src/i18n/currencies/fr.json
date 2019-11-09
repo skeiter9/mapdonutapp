@@ -1,0 +1,1064 @@
+{
+    "currencies": [
+        {
+            "iso": "AED",
+            "currency_name": "Dirham des Émirats arabes unis",
+            "is_obsolete": false
+        },
+        {
+            "iso": "AFN",
+            "currency_name": "Afghani afghan",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ALL",
+            "currency_name": "Lek albanais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "AMD",
+            "currency_name": "Dram arménien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ANG",
+            "currency_name": "Florin néerlandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "AOA",
+            "currency_name": "Kwanza angolais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ARS",
+            "currency_name": "Peso argentin",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ATS",
+            "currency_name": "Austrian Schilling",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "AUD",
+            "currency_name": "Dollar australien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "AWG",
+            "currency_name": "Florin arubais ou néerlandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "AZM",
+            "currency_name": "Azerbaijani Manat",
+            "is_obsolete": true,
+            "superceded_by": "AZN"
+        },
+        {
+            "iso": "AZN",
+            "currency_name": "Manat azerbaïdjanais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BAM",
+            "currency_name": "Mark convertible de Bosnie-Herzégovine",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BBD",
+            "currency_name": "Dollar de la Barbade",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BDT",
+            "currency_name": "Taka bangladais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BEF",
+            "currency_name": "Belgian Franc",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "BGN",
+            "currency_name": "Lev bulgare",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BHD",
+            "currency_name": "Dinar bahreïni",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BIF",
+            "currency_name": "Franc burundais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BMD",
+            "currency_name": "Dollar bermudien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BND",
+            "currency_name": "Dollar du Brunei",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BOB",
+            "currency_name": "Bolíviano bolivien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BRL",
+            "currency_name": "Réal brésilien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BSD",
+            "currency_name": "Dollar bahaméen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BTN",
+            "currency_name": "Ngultrum du Bhoutan",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BWP",
+            "currency_name": "Pula du Botswana",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BYN",
+            "currency_name": "Rouble biélorusse",
+            "is_obsolete": false
+        },
+        {
+            "iso": "BYR",
+            "currency_name": "Rouble biélorusse",
+            "is_obsolete": true,
+            "superceded_by": "BYN"
+        },
+        {
+            "iso": "BZD",
+            "currency_name": "Dollar bélizien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CAD",
+            "currency_name": "Dollar canadien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CDF",
+            "currency_name": "Franc congolais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CHF",
+            "currency_name": "Franc suisse",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CLP",
+            "currency_name": "Peso chilien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CNH",
+            "currency_name": "Chinese Yuan Renminbi Offshore",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CNY",
+            "currency_name": "Yuan ou renminbi chinois",
+            "is_obsolete": false
+        },
+        {
+            "iso": "COP",
+            "currency_name": "Peso colombien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CRC",
+            "currency_name": "Colon costaricain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CUC",
+            "currency_name": "Peso cubain convertible",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CUP",
+            "currency_name": "Peso cubain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CVE",
+            "currency_name": "Escudo cap-verdien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "CYP",
+            "currency_name": "Cypriot Pound",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "CZK",
+            "currency_name": "Couronne tchèque",
+            "is_obsolete": false
+        },
+        {
+            "iso": "DEM",
+            "currency_name": "German Deutsche Mark",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "DJF",
+            "currency_name": "Franc de Djibouti",
+            "is_obsolete": false
+        },
+        {
+            "iso": "DKK",
+            "currency_name": "Couronne danoise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "DOP",
+            "currency_name": "Peso dominicain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "DZD",
+            "currency_name": "Dinar algérien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "EEK",
+            "currency_name": "Couronne estonienne",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "EGP",
+            "currency_name": "Livre égyptienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ERN",
+            "currency_name": "Nakfa érythréen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ESP",
+            "currency_name": "Spanish Peseta",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "ETB",
+            "currency_name": "Birr éthiopien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "EUR",
+            "currency_name": "Euro",
+            "is_obsolete": false
+        },
+        {
+            "iso": "FIM",
+            "currency_name": "Finnish Markka",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "FJD",
+            "currency_name": "Dollar de Fidji",
+            "is_obsolete": false
+        },
+        {
+            "iso": "FKP",
+            "currency_name": "Livre des Îles Malouines",
+            "is_obsolete": false
+        },
+        {
+            "iso": "FRF",
+            "currency_name": "Franc français",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "GBP",
+            "currency_name": "Livre britannique",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GEL",
+            "currency_name": "Lari géorgien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GGP",
+            "currency_name": "Livre de Guernesey",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GHC",
+            "currency_name": "Ghanaian Cedi",
+            "is_obsolete": true,
+            "superceded_by": "GHS"
+        },
+        {
+            "iso": "GHS",
+            "currency_name": "Cédi ghanéen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GIP",
+            "currency_name": "Livre de Gibraltar",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GMD",
+            "currency_name": "Dalasi gambien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GNF",
+            "currency_name": "Franc guinéen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GRD",
+            "currency_name": "Greek Drachma",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "GTQ",
+            "currency_name": "Quetzal guatémaltèque",
+            "is_obsolete": false
+        },
+        {
+            "iso": "GYD",
+            "currency_name": "Dollar guyanien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "HKD",
+            "currency_name": "Dollar de Hong Kong",
+            "is_obsolete": false
+        },
+        {
+            "iso": "HNL",
+            "currency_name": "Lempira hondurien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "HRK",
+            "currency_name": "Kuna croate",
+            "is_obsolete": false
+        },
+        {
+            "iso": "HTG",
+            "currency_name": "Gourde haïtienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "HUF",
+            "currency_name": "Forint hongrois",
+            "is_obsolete": false
+        },
+        {
+            "iso": "IDR",
+            "currency_name": "Roupie indonésienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "IEP",
+            "currency_name": "Irish Pound",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "ILS",
+            "currency_name": "Shekel israélien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "IMP",
+            "currency_name": "Livre mannoise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "INR",
+            "currency_name": "Roupie indienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "IQD",
+            "currency_name": "Dinar irakien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "IRR",
+            "currency_name": "Rial iranien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ISK",
+            "currency_name": "Couronne islandaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ITL",
+            "currency_name": "Italian Lira",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "JEP",
+            "currency_name": "Livre de Jersey",
+            "is_obsolete": false
+        },
+        {
+            "iso": "JMD",
+            "currency_name": "Dollar jamaïcain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "JOD",
+            "currency_name": "Dinar jordanien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "JPY",
+            "currency_name": "Yen japonais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KES",
+            "currency_name": "Shilling kényan",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KGS",
+            "currency_name": "Som du Kirghizistan",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KHR",
+            "currency_name": "Riel cambodgien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KMF",
+            "currency_name": "Franc comorien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KPW",
+            "currency_name": "Won nord-coréen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KRW",
+            "currency_name": "Won sud-coréen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KWD",
+            "currency_name": "Dinar koweïtien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KYD",
+            "currency_name": "Dollar des îles Caïmans",
+            "is_obsolete": false
+        },
+        {
+            "iso": "KZT",
+            "currency_name": "Tenge kazakh",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LAK",
+            "currency_name": "Kip laotien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LBP",
+            "currency_name": "Livre libanaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LKR",
+            "currency_name": "Roupie sri lankaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LRD",
+            "currency_name": "Dollar libérien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LSL",
+            "currency_name": "Loti du Lesotho",
+            "is_obsolete": false
+        },
+        {
+            "iso": "LTL",
+            "currency_name": "Litas lituanien",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "LUF",
+            "currency_name": "Luxembourg Franc",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "LVL",
+            "currency_name": "Lats letton",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "LYD",
+            "currency_name": "Dinar libyen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MAD",
+            "currency_name": "Dirham marocain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MDL",
+            "currency_name": "Leu moldave",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MGA",
+            "currency_name": "Ariary malgache",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MGF",
+            "currency_name": "Malagasy Franc",
+            "is_obsolete": true,
+            "superceded_by": "MGA"
+        },
+        {
+            "iso": "MKD",
+            "currency_name": "Dinar macédonien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MMK",
+            "currency_name": "Kyat du Myanmar",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MNT",
+            "currency_name": "Tugrik mongol",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MOP",
+            "currency_name": "Pataca de Macao",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MRO",
+            "currency_name": "Ouguiya mauritanien",
+            "is_obsolete": true,
+            "superceded_by": "MRU"
+        },
+        {
+            "iso": "MRU",
+            "currency_name": "Ouguiya mauritanien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MTL",
+            "currency_name": "Maltese Lira",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "MUR",
+            "currency_name": "Roupie mauricienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MVR",
+            "currency_name": "Rufiyaa maldivien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MWK",
+            "currency_name": "Kwacha malawien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MXN",
+            "currency_name": "Peso mexicain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MXV",
+            "currency_name": "Unidad de inversión",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MYR",
+            "currency_name": "Ringgit malais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "MZM",
+            "currency_name": "Mozambican Metical",
+            "is_obsolete": true,
+            "superceded_by": "MZN"
+        },
+        {
+            "iso": "MZN",
+            "currency_name": "Metical mozambicain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NAD",
+            "currency_name": "Dollar namibien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NGN",
+            "currency_name": "Naira nigérian",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NIO",
+            "currency_name": "Cordoba nicaraguayen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NLG",
+            "currency_name": "Dutch Guilder",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "NOK",
+            "currency_name": "Couronne norvégienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NPR",
+            "currency_name": "Roupie népalaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "NZD",
+            "currency_name": "Dollar néo-zélandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "OMR",
+            "currency_name": "Rial omanais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PAB",
+            "currency_name": "Balboa panaméen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PEN",
+            "currency_name": "Sol péruvien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PGK",
+            "currency_name": "Kina de Papouasie-Nouvelle-Guinée",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PHP",
+            "currency_name": "Peso philippin",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PKR",
+            "currency_name": "Roupie pakistanaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PLN",
+            "currency_name": "Zloty polonais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "PTE",
+            "currency_name": "Portuguese Escudo",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "PYG",
+            "currency_name": "Guarani paraguayen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "QAR",
+            "currency_name": "Rial qatari",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ROL",
+            "currency_name": "Romanian Leu",
+            "is_obsolete": true,
+            "superceded_by": "RON"
+        },
+        {
+            "iso": "RON",
+            "currency_name": "Leu roumain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "RSD",
+            "currency_name": "Dinar serbe",
+            "is_obsolete": false
+        },
+        {
+            "iso": "RUB",
+            "currency_name": "Rouble russe",
+            "is_obsolete": false
+        },
+        {
+            "iso": "RWF",
+            "currency_name": "Franc rwandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SAR",
+            "currency_name": "Rial saoudien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SBD",
+            "currency_name": "Dollar des îles Salomon",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SCR",
+            "currency_name": "Roupie seychelloise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SDD",
+            "currency_name": "Sudanese Dinar",
+            "is_obsolete": true,
+            "superceded_by": "SDG"
+        },
+        {
+            "iso": "SDG",
+            "currency_name": "Livre soudanaise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SEK",
+            "currency_name": "Couronne suédoise",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SGD",
+            "currency_name": "Dollar de Singapour",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SHP",
+            "currency_name": "Livre de Sainte-Hélène",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SIT",
+            "currency_name": "Slovenian Tolar",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "SKK",
+            "currency_name": "Slovak Koruna",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "SLL",
+            "currency_name": "Leone de Sierra Leone",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SOS",
+            "currency_name": "Shilling somalien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SPL",
+            "currency_name": "Luigino de Seborga",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SRD",
+            "currency_name": "Dollar du Surinam",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SRG",
+            "currency_name": "Surinamese Guilder",
+            "is_obsolete": true,
+            "superceded_by": "SRD"
+        },
+        {
+            "iso": "STD",
+            "currency_name": "Dobra de Sao Tomé",
+            "is_obsolete": true,
+            "superceded_by": "STN"
+        },
+        {
+            "iso": "STN",
+            "currency_name": "Dobra de Sao Tomé",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SVC",
+            "currency_name": "Colon salvadorien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SYP",
+            "currency_name": "Livre syrienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "SZL",
+            "currency_name": "Lilangeni du Swaziland",
+            "is_obsolete": false
+        },
+        {
+            "iso": "THB",
+            "currency_name": "Baht thaïlandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TJS",
+            "currency_name": "Somoni tadjik",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TMM",
+            "currency_name": "Turkmenistani Manat",
+            "is_obsolete": true,
+            "superceded_by": "TMT"
+        },
+        {
+            "iso": "TMT",
+            "currency_name": "Manat turkmène",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TND",
+            "currency_name": "Dinar tunisien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TOP",
+            "currency_name": "Pa’anga de Tonga",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TRL",
+            "currency_name": "Turkish Lira",
+            "is_obsolete": true,
+            "superceded_by": "TRY"
+        },
+        {
+            "iso": "TRY",
+            "currency_name": "Livre turque",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TTD",
+            "currency_name": "Dollar de Trinidad",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TVD",
+            "currency_name": "Dollar des Tuvalu",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TWD",
+            "currency_name": "Nouveau dollar de Taïwan",
+            "is_obsolete": false
+        },
+        {
+            "iso": "TZS",
+            "currency_name": "Shilling tanzanien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "UAH",
+            "currency_name": "Hryvnia ukrainienne",
+            "is_obsolete": false
+        },
+        {
+            "iso": "UGX",
+            "currency_name": "Shilling ougandais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "USD",
+            "currency_name": "Dollar des États-Unis",
+            "is_obsolete": false
+        },
+        {
+            "iso": "UYU",
+            "currency_name": "Peso uruguayen",
+            "is_obsolete": false
+        },
+        {
+            "iso": "UZS",
+            "currency_name": "Som ouzbek",
+            "is_obsolete": false
+        },
+        {
+            "iso": "VAL",
+            "currency_name": "Lire vaticane",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "VEB",
+            "currency_name": "Bolivar vénézuélien",
+            "is_obsolete": true,
+            "superceded_by": "VEF"
+        },
+        {
+            "iso": "VEF",
+            "currency_name": "Bolivar vénézuélien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "VES",
+            "currency_name": "Bolivar vénézuélien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "VND",
+            "currency_name": "Dong vietnamien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "VUV",
+            "currency_name": "Vatu vanuatais",
+            "is_obsolete": false
+        },
+        {
+            "iso": "WST",
+            "currency_name": "Tala de Samoa",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XAF",
+            "currency_name": "Franc CFA d’Afrique centrale, BEAC",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XAG",
+            "currency_name": "Once d’argent",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XAU",
+            "currency_name": "Once d’or",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XBT",
+            "currency_name": "Bitcoin",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XCD",
+            "currency_name": "Dollar des Caraïbes orientales",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XDR",
+            "currency_name": "Droits de tirage spéciaux du FMI",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XEU",
+            "currency_name": "Unité de compte européenne",
+            "is_obsolete": true,
+            "superceded_by": "EUR"
+        },
+        {
+            "iso": "XOF",
+            "currency_name": "Franc CFA",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XPD",
+            "currency_name": "Once de palladium",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XPF",
+            "currency_name": "Franc CFP",
+            "is_obsolete": false
+        },
+        {
+            "iso": "XPT",
+            "currency_name": "Once de platine",
+            "is_obsolete": false
+        },
+        {
+            "iso": "YER",
+            "currency_name": "Rial yéménite",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ZAR",
+            "currency_name": "Rand sud-africain",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ZMK",
+            "currency_name": "Kwacha zambien",
+            "is_obsolete": true,
+            "superceded_by": "ZMW"
+        },
+        {
+            "iso": "ZMW",
+            "currency_name": "Kwacha zambien",
+            "is_obsolete": false
+        },
+        {
+            "iso": "ZWD",
+            "currency_name": "Dollar du Zimbabwe",
+            "is_obsolete": false
+        }
+    ]
+}
