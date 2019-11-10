@@ -1,0 +1,53 @@
+version: 2.1
+orbs:
+  rn: react-native-community/react-native@1.2.2
+jobs:
+  analyse_js:
+    executor: rn/linux_js
+    steps:
+      - attach_workspace:
+          at: .
+      - rn/yarn_install
+      - run:
+          command: yarn eslint
+          name: Run ESLint
+      - run:
+          command: yarn flow
+          name: Flow
+      - run:
+          command: yarn jest
+          name: Jest
+  checkout_code:
+    executor: rn/linux_js
+    steps:
+      - checkout
+      - persist_to_workspace:
+          paths: .
+          root: .
+  fastlane_release:
+    executor: rn/linux_js
+    steps:
+      - attach_workspace:
+          at: .
+      - rn/yarn_install
+      - run:
+          command: bundle exec fastlane ios release
+          name: Run Fastlane
+workflows:
+  test:
+    jobs:
+      - checkout_code
+      - analyse_js:
+          requires:
+            - checkout_code
+      - rn/ios_build_and_test:
+          build_configuration: Release
+          detox_configuration: ios.sim.release
+          device: iPhone X
+          project_path: ios/Example.xcodeproj
+          requires:
+            - analyse_js
+          scheme: Example
+      - fastlane_release:
+          requires:
+            - rn/ios_build_and_test
