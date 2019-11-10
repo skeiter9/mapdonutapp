@@ -1,5 +1,3 @@
-import { action$ } from "src/@types/global";
+import {action$} from 'src/@types/global';
 
-export const RegisterCommandComplete = (action$: action$) => action$.pipe(
-    //map
-) 
+export const RegisterCommandComplete = (action$: action$) => action$.pipe();

@@ -1,14 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { View } from 'react-native';
+import {View} from 'react-native';
 
-EditProfile.propTypes = {
-};
-interface Props {
-}
+EditProfile.propTypes = {};
+interface Props {}
 export default function EditProfile(props: Props) {
-    const { } = props;
-    return <View>
-
-    </View>
+  const {} = props;
+  return <View />;
 }

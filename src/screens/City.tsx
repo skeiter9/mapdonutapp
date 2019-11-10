@@ -1,14 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { View } from 'react-native';
+import {View} from 'react-native';
 
-City.propTypes = {
-};
-interface Props {
-}
+City.propTypes = {};
+interface Props {}
 export default function City(props: Props) {
-    const { } = props;
-    return <View>
-
-    </View>
+  const {} = props;
+  return <View />;
 }

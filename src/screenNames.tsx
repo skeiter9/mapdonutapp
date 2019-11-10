@@ -1,4 +1,4 @@
-import { memo } from 'react';
+import {memo} from 'react';
 
 export const SCREEN_SPLASH = 'mapdonut.dev.splash';
 export const SCREEN_LOGIN = 'mapdonut.dev.login';
@@ -17,26 +17,26 @@ export const SCREEN_PROFILE = 'mapdonut.dev.Profile';
 export const SCREEN_SELECT_PASSPORT = 'mapdonut.dev.SelectPassport';
 export const SCREEN_CURRENCY = 'mapdonut.dev.SelectCurrency';
 
-import rnnRegisterComponent from "./utils/rnnRegisterComponent";
+import rnnRegisterComponent from './utils/rnnRegisterComponent';
 //import SplashScreen from "./screens/SplashScreen";
 
-import Login from "./screens/Login";
-import Home from "./screens/Home";
-import WebviewScreen from "./screens/Webview";
+import Login from './screens/Login';
+import Home from './screens/Home';
+import WebviewScreen from './screens/Webview';
 //import LanguagesOverlayLogin from "./screens/LanguagesOverlayLogin";
-import ThemesOverlayLogin from "./screens/ThemesOverlayLogin";
-import Tutorial from "./screens/Tutorial";
-import PhoneLogin from "./screens/PhoneLogin";
-import PhoneLoginCode from "./screens/PhoneLoginCode";
-import Explore from "./screens/Explore";
-import Settings from "./screens/Settings";
-import Profile from "./screens/Profile";
-import SelectPassport from "./screens/SelectPassport";
-import SelectCurrency from "./screens/SelectCurrency";
-import { ComponentProvider } from "react-native";
+import ThemesOverlayLogin from './screens/ThemesOverlayLogin';
+import Tutorial from './screens/Tutorial';
+import PhoneLogin from './screens/PhoneLogin';
+import PhoneLoginCode from './screens/PhoneLoginCode';
+import Explore from './screens/Explore';
+import Settings from './screens/Settings';
+import Profile from './screens/Profile';
+import SelectPassport from './screens/SelectPassport';
+import SelectCurrency from './screens/SelectCurrency';
+import {ComponentProvider} from 'react-native';
 
-import TopbarButton from "./components/TopbarButton";
-import SearchBarInTopbar from "./components/SearchbarInTopbar";
+import TopbarButton from './components/TopbarButton';
+import SearchBarInTopbar from './components/SearchbarInTopbar';
 
 const Screens = new Map();
 //Screens.set(SCREEN_SPLASH, SplashScreen);
@@ -62,10 +62,10 @@ Screens.set(SCREEN_CURRENCY, SelectCurrency);
 
 // Register screens
 export const registerScreens = () => {
-    let arr: ComponentProvider[] = []
-    Screens.forEach((Screen, key) => {
-        arr.push(rnnRegisterComponent(key, (Screen)));
-    });
-    return arr;
-    //rnnRegisterComponent(SCREEN_SPLASH, SplashScreen)
+  let arr: ComponentProvider[] = [];
+  Screens.forEach((Screen, key) => {
+    arr.push(rnnRegisterComponent(key, Screen));
+  });
+  return arr;
+  //rnnRegisterComponent(SCREEN_SPLASH, SplashScreen)
 };
